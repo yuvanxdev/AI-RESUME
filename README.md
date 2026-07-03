@@ -32,7 +32,7 @@ An AI-powered resume analysis system that evaluates resumes against job descript
 
 ## Deployment
 
-- Docker / AWS / Vercel / Netlify
+- LocalHost
 
 ## Security
 
