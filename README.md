@@ -19,3 +19,27 @@ An AI-powered resume analysis system that evaluates resumes against job descript
 - Database: MongoDB / MySQL (if used)
 
 ## Project Structure
+
+/src
+  /components
+  /pages
+  /services
+  /utils
+
+/backend
+  /controllers
+  /models
+  /routes
+
+README.md
+
+## Installation and Setup
+
+```bash
+git clone https://github.com/your-username/ai-resume-analyzer.git
+
+cd ai-resume-analyzer
+
+npm install
+
+npm run dev
