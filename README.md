@@ -18,20 +18,27 @@ An AI-powered resume analysis system that evaluates resumes against job descript
 - AI/NLP: Natural Language Processing / OpenAI APIs (if used)
 - Database: MongoDB / MySQL (if used)
 
-## Project Structure
+## Version Control
 
-/src
-  /components
-  /pages
-  /services
-  /utils
+- Git / GitHub
 
-/backend
-  /controllers
-  /models
-  /routes
+## APIs
 
-README.md
+- REST / GraphQL
+
+## Testing
+
+- Jest / JUnit / Postman
+
+## Deployment
+
+- Docker / AWS / Vercel / Netlify
+
+## Security
+
+- Authentication
+- JWT
+- OAuth
 
 ## Installation and Setup
 
