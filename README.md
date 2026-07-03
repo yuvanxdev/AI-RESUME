@@ -17,28 +17,11 @@ An AI-powered resume analysis system that evaluates resumes against job descript
 - Backend: Node.js / Java / Spring Boot
 - AI/NLP: Natural Language Processing / OpenAI APIs (if used)
 - Database: MongoDB / MySQL (if used)
-
-## Version Control
-
-- Git / GitHub
-
-## APIs
-
-- REST / GraphQL
-
-## Testing
-
-- Jest / JUnit / Postman
-
-## Deployment
-
-- LocalHost
-
-## Security
-
-- Authentication
-- JWT
-- OAuth
+- Version Control: Git / Github
+- APIs: REST / GraphQL
+- Testing: Jest / Postman
+- Deployment: LocalHost
+- Security: Authentication / JWT / OAuth
 
 ## Installation and Setup
 
