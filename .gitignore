@@ -1,0 +1,63 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+.venv
+
+# Python cache files
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# Excel and CSV files
+*.xlsx
+*.xls
+*.csv
+
+# Documentation
+*.md
+!README.md
+!CONTRIBUTING.md
+!LICENSE.md
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Admin credential files
+change_admin_credentials.py
+init_default_admin.py
+
+# Log files
+*.log
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+resume_analytics/models/bert_tf_ats_score_model/variables/variables.data-00000-of-00001
+
+# Resume uploads
+resumes/

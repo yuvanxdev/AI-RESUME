@@ -1,0 +1,6 @@
+Model: bert_tf_ats_score
+Timestamp: 2025-04-08T23:49:52.296139
+MSE: 238.7007
+R²: 0.7002
+Final Training Loss: 0.0372
+Final Validation Loss: 0.0290
